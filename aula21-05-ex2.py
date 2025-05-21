@@ -11,4 +11,4 @@ else:
     else:
         situacao = "Reprovado!"
 
-print(f"{nome} a média é: {media} e você está {situacao}")
+print(f"A média é: {media} e você está {situacao}")
